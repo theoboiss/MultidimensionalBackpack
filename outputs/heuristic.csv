@@ -1,0 +1,571 @@
+Instance	Objective	Scheduling	Heuristic	Duration (in s)
+instance1	18822	random	Dynamic	0.000498
+instance2	16411	random	Dynamic	0.000478
+instance3	15826	random	Static	0.000466
+instance4	17465	random	Static	0.000436
+instance5	17418	random	Dynamic	0.000448
+instance6	16320	random	Dynamic	0.000444
+instance7	19672	random	Dynamic	0.000452
+instance8	17087	random	Dynamic	0.000492
+instance9	16967	random	Static	0.000434
+instance10	16583	random	Dynamic	0.000500
+instance11	32959	random	Static	0.000538
+instance12	36318	random	Dynamic	0.000560
+instance13	33555	random	Static	0.000694
+instance14	38059	random	Static	0.000602
+instance15	33555	random	Dynamic	0.000540
+instance16	30793	random	Static	0.000552
+instance17	34608	random	Static	0.000552
+instance18	32999	random	Dynamic	0.000666
+instance19	33939	random	Static	0.000590
+instance20	35091	random	Dynamic	0.000532
+instance21	53086	random	Dynamic	0.000588
+instance22	55522	random	Dynamic	0.000644
+instance23	53566	random	Dynamic	0.000632
+instance24	55324	random	Static	0.000596
+instance25	52834	random	Static	0.000690
+instance26	52068	random	Dynamic	0.000614
+instance27	55106	random	Dynamic	0.000662
+instance28	54327	random	Dynamic	0.000612
+instance29	49552	random	Dynamic	0.000660
+instance30	52476	random	Static	0.000692
+instance1	20987	ratio value/weightOfMostCriticalDimension crescent	Static	0.001714
+instance1	20987	ratio value/weightOfMostFullDimension crescent	Static	0.002698
+instance1	20233	ratio value/totalWeight descending	Static	0.000884
+instance1	19780	ratio value/totalWeight descending	Dynamic	0.000960
+instance1	19696	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001762
+instance1	19696	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002304
+instance1	18166	descending	Static	0.000370
+instance1	18166	descending	Dynamic	0.000316
+instance1	14295	crescent	Static	0.000570
+instance1	14085	ratio value/totalWeight crescent	Dynamic	0.000750
+instance1	14016	random	Dynamic	0.000492
+instance1	13932	random	Static	0.000554
+instance1	13641	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001892
+instance1	13641	ratio value/weightOfMostFullDimension descending	Dynamic	0.002748
+instance1	13246	ratio value/weightOfMostFullDimension descending	Static	0.002768
+instance1	13246	ratio value/weightOfMostCriticalDimension descending	Static	0.002012
+instance1	12834	ratio value/totalWeight crescent	Static	0.001002
+instance1	12805	crescent	Dynamic	0.000452
+instance2	22280	ratio value/totalWeight descending	Dynamic	0.000802
+instance2	21556	ratio value/totalWeight descending	Static	0.000792
+instance2	19376	descending	Static	0.000276
+instance2	19376	descending	Dynamic	0.000342
+instance2	18476	ratio value/weightOfMostCriticalDimension crescent	Static	0.001796
+instance2	18476	ratio value/weightOfMostFullDimension crescent	Static	0.002848
+instance2	17750	random	Static	0.000502
+instance2	17671	random	Dynamic	0.000486
+instance2	17051	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001998
+instance2	17051	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002590
+instance2	16772	crescent	Dynamic	0.000346
+instance2	15918	ratio value/weightOfMostCriticalDimension descending	Static	0.001676
+instance2	15918	ratio value/weightOfMostFullDimension descending	Static	0.002650
+instance2	15187	crescent	Static	0.000344
+instance2	14262	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001866
+instance2	14262	ratio value/weightOfMostFullDimension descending	Dynamic	0.002654
+instance2	13639	ratio value/totalWeight crescent	Dynamic	0.000756
+instance2	13314	ratio value/totalWeight crescent	Static	0.000756
+instance3	21542	ratio value/totalWeight descending	Dynamic	0.000840
+instance3	21074	ratio value/totalWeight descending	Static	0.000922
+instance3	20629	ratio value/weightOfMostCriticalDimension crescent	Static	0.001544
+instance3	20629	ratio value/weightOfMostFullDimension crescent	Static	0.002446
+instance3	20289	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001480
+instance3	20289	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002374
+instance3	17128	descending	Static	0.000296
+instance3	17128	descending	Dynamic	0.000326
+instance3	15199	random	Static	0.000482
+instance3	15146	random	Dynamic	0.000464
+instance3	14307	crescent	Static	0.000390
+instance3	13491	crescent	Dynamic	0.000338
+instance3	12498	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001582
+instance3	12498	ratio value/weightOfMostFullDimension descending	Dynamic	0.002438
+instance3	12215	ratio value/totalWeight crescent	Static	0.000878
+instance3	12184	ratio value/weightOfMostFullDimension descending	Static	0.002478
+instance3	12184	ratio value/weightOfMostCriticalDimension descending	Static	0.001802
+instance3	11607	ratio value/totalWeight crescent	Dynamic	0.000798
+instance4	21046	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001748
+instance4	21046	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002320
+instance4	20222	ratio value/weightOfMostFullDimension crescent	Static	0.002428
+instance4	20222	ratio value/weightOfMostCriticalDimension crescent	Static	0.001704
+instance4	19676	descending	Static	0.000294
+instance4	19676	descending	Dynamic	0.000298
+instance4	19072	random	Static	0.000580
+instance4	17924	random	Dynamic	0.000536
+instance4	15522	ratio value/totalWeight descending	Static	0.000932
+instance4	15413	crescent	Dynamic	0.000470
+instance4	14846	ratio value/weightOfMostCriticalDimension descending	Static	0.001910
+instance4	14846	ratio value/weightOfMostFullDimension descending	Static	0.002628
+instance4	14810	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.002108
+instance4	14810	ratio value/weightOfMostFullDimension descending	Dynamic	0.002818
+instance4	14187	ratio value/totalWeight descending	Dynamic	0.001026
+instance4	13944	crescent	Static	0.000454
+instance4	13187	ratio value/totalWeight crescent	Static	0.000776
+instance4	10860	ratio value/totalWeight crescent	Dynamic	0.000740
+instance5	21084	ratio value/totalWeight descending	Dynamic	0.000860
+instance5	20118	descending	Dynamic	0.000338
+instance5	20118	descending	Static	0.000328
+instance5	19545	ratio value/totalWeight descending	Static	0.000912
+instance5	18536	ratio value/weightOfMostCriticalDimension crescent	Static	0.001824
+instance5	18536	ratio value/weightOfMostFullDimension crescent	Static	0.002730
+instance5	18046	random	Dynamic	0.000618
+instance5	16982	random	Static	0.000634
+instance5	16467	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001600
+instance5	16467	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002694
+instance5	14705	crescent	Dynamic	0.000370
+instance5	14331	crescent	Static	0.000366
+instance5	13681	ratio value/totalWeight crescent	Dynamic	0.000878
+instance5	13136	ratio value/totalWeight crescent	Static	0.000824
+instance5	12979	ratio value/weightOfMostCriticalDimension descending	Static	0.001680
+instance5	12979	ratio value/weightOfMostFullDimension descending	Static	0.002658
+instance5	12978	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001652
+instance5	12978	ratio value/weightOfMostFullDimension descending	Dynamic	0.002866
+instance6	23719	ratio value/totalWeight descending	Dynamic	0.000810
+instance6	23085	ratio value/totalWeight descending	Static	0.000846
+instance6	19861	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001752
+instance6	19861	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002242
+instance6	18907	ratio value/weightOfMostFullDimension crescent	Static	0.002310
+instance6	18907	ratio value/weightOfMostCriticalDimension crescent	Static	0.001830
+instance6	17788	descending	Static	0.000424
+instance6	17788	descending	Dynamic	0.000310
+instance6	17781	random	Static	0.000620
+instance6	16712	random	Dynamic	0.000578
+instance6	15830	crescent	Static	0.000450
+instance6	15162	crescent	Dynamic	0.000360
+instance6	14090	ratio value/weightOfMostCriticalDimension descending	Static	0.001582
+instance6	14090	ratio value/weightOfMostFullDimension descending	Static	0.002594
+instance6	13268	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001704
+instance6	13268	ratio value/weightOfMostFullDimension descending	Dynamic	0.002754
+instance6	11222	ratio value/totalWeight crescent	Static	0.000814
+instance6	10565	ratio value/totalWeight crescent	Dynamic	0.000768
+instance7	22787	ratio value/totalWeight descending	Static	0.000768
+instance7	22383	ratio value/totalWeight descending	Dynamic	0.000868
+instance7	22308	ratio value/weightOfMostCriticalDimension crescent	Static	0.001892
+instance7	22308	ratio value/weightOfMostFullDimension crescent	Static	0.002850
+instance7	21474	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001758
+instance7	21474	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002106
+instance7	21315	descending	Static	0.000354
+instance7	21315	descending	Dynamic	0.000272
+instance7	18875	random	Static	0.000494
+instance7	16955	random	Dynamic	0.000468
+instance7	16274	crescent	Static	0.000300
+instance7	15765	crescent	Dynamic	0.000332
+instance7	15079	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001824
+instance7	15079	ratio value/weightOfMostFullDimension descending	Dynamic	0.002430
+instance7	14367	ratio value/weightOfMostFullDimension descending	Static	0.002586
+instance7	14367	ratio value/weightOfMostCriticalDimension descending	Static	0.001520
+instance7	13664	ratio value/totalWeight crescent	Dynamic	0.000664
+instance7	13272	ratio value/totalWeight crescent	Static	0.000740
+instance8	21911	ratio value/totalWeight descending	Dynamic	0.000768
+instance8	21249	ratio value/totalWeight descending	Static	0.000744
+instance8	19064	descending	Static	0.000310
+instance8	19064	descending	Dynamic	0.000332
+instance8	17837	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001654
+instance8	17837	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002520
+instance8	17219	ratio value/weightOfMostFullDimension crescent	Static	0.002386
+instance8	17219	ratio value/weightOfMostCriticalDimension crescent	Static	0.001834
+instance8	17093	random	Dynamic	0.000450
+instance8	16565	random	Static	0.000402
+instance8	15302	crescent	Dynamic	0.000372
+instance8	14734	crescent	Static	0.000422
+instance8	13997	ratio value/weightOfMostCriticalDimension descending	Static	0.001782
+instance8	13997	ratio value/weightOfMostFullDimension descending	Static	0.002610
+instance8	13560	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001794
+instance8	13560	ratio value/weightOfMostFullDimension descending	Dynamic	0.002484
+instance8	13177	ratio value/totalWeight crescent	Dynamic	0.000832
+instance8	13056	ratio value/totalWeight crescent	Static	0.000744
+instance9	21614	ratio value/totalWeight descending	Dynamic	0.000834
+instance9	20864	ratio value/totalWeight descending	Static	0.000946
+instance9	19343	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001764
+instance9	19343	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002492
+instance9	18637	descending	Static	0.000312
+instance9	18637	descending	Dynamic	0.000342
+instance9	18460	ratio value/weightOfMostFullDimension crescent	Static	0.002522
+instance9	18460	ratio value/weightOfMostCriticalDimension crescent	Static	0.001598
+instance9	17517	random	Dynamic	0.000540
+instance9	16910	random	Static	0.000484
+instance9	14987	ratio value/weightOfMostCriticalDimension descending	Static	0.001836
+instance9	14987	ratio value/weightOfMostFullDimension descending	Static	0.002620
+instance9	14476	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001704
+instance9	14476	ratio value/weightOfMostFullDimension descending	Dynamic	0.002312
+instance9	14093	crescent	Static	0.000538
+instance9	13642	crescent	Dynamic	0.000440
+instance9	12356	ratio value/totalWeight crescent	Static	0.000820
+instance9	10576	ratio value/totalWeight crescent	Dynamic	0.000788
+instance10	23705	ratio value/totalWeight descending	Dynamic	0.000810
+instance10	22150	ratio value/totalWeight descending	Static	0.000852
+instance10	21147	ratio value/weightOfMostCriticalDimension crescent	Static	0.001712
+instance10	21147	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001650
+instance10	21147	ratio value/weightOfMostFullDimension crescent	Static	0.001700
+instance10	21147	ratio value/weightOfMostFullDimension crescent	Dynamic	0.001846
+instance10	20588	descending	Static	0.000396
+instance10	20588	descending	Dynamic	0.000368
+instance10	16888	random	Static	0.000496
+instance10	15357	crescent	Static	0.000374
+instance10	14878	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001598
+instance10	14878	ratio value/weightOfMostFullDimension descending	Dynamic	0.002012
+instance10	14645	random	Dynamic	0.000464
+instance10	14641	crescent	Dynamic	0.000374
+instance10	13207	ratio value/totalWeight crescent	Dynamic	0.000724
+instance10	13152	ratio value/weightOfMostFullDimension descending	Static	0.002100
+instance10	13152	ratio value/weightOfMostCriticalDimension descending	Static	0.001494
+instance10	12946	ratio value/totalWeight crescent	Static	0.000862
+instance11	41331	ratio value/totalWeight descending	Static	0.000694
+instance11	41331	ratio value/totalWeight descending	Dynamic	0.000772
+instance11	39979	ratio value/weightOfMostCriticalDimension crescent	Static	0.001340
+instance11	39979	ratio value/weightOfMostFullDimension crescent	Static	0.002308
+instance11	39535	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001396
+instance11	39535	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002400
+instance11	37822	descending	Static	0.000410
+instance11	37822	descending	Dynamic	0.000334
+instance11	34331	random	Dynamic	0.000446
+instance11	33953	random	Static	0.000464
+instance11	33510	crescent	Dynamic	0.000406
+instance11	31373	crescent	Static	0.000550
+instance11	30306	ratio value/weightOfMostFullDimension descending	Static	0.002044
+instance11	30306	ratio value/weightOfMostFullDimension descending	Dynamic	0.002180
+instance11	30306	ratio value/weightOfMostCriticalDimension descending	Static	0.001912
+instance11	30306	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001332
+instance11	30115	ratio value/totalWeight crescent	Dynamic	0.000844
+instance11	29594	ratio value/totalWeight crescent	Static	0.000586
+instance12	40362	ratio value/totalWeight descending	Dynamic	0.000682
+instance12	39967	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001262
+instance12	39967	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002306
+instance12	38754	ratio value/totalWeight descending	Static	0.000688
+instance12	38164	ratio value/weightOfMostFullDimension crescent	Static	0.002298
+instance12	38164	ratio value/weightOfMostCriticalDimension crescent	Static	0.001666
+instance12	34569	descending	Static	0.000348
+instance12	34569	descending	Dynamic	0.000392
+instance12	33280	random	Dynamic	0.000458
+instance12	32588	random	Static	0.000466
+instance12	28714	ratio value/totalWeight crescent	Dynamic	0.000560
+instance12	28597	ratio value/weightOfMostFullDimension descending	Static	0.001916
+instance12	28597	ratio value/weightOfMostFullDimension descending	Dynamic	0.002580
+instance12	28597	ratio value/weightOfMostCriticalDimension descending	Static	0.001712
+instance12	28597	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001646
+instance12	28506	ratio value/totalWeight crescent	Static	0.000710
+instance12	27800	crescent	Static	0.000400
+instance12	27326	crescent	Dynamic	0.000388
+instance13	39471	ratio value/totalWeight descending	Static	0.000986
+instance13	38886	ratio value/totalWeight descending	Dynamic	0.000938
+instance13	37757	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001788
+instance13	37757	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002164
+instance13	37613	ratio value/weightOfMostFullDimension crescent	Static	0.002264
+instance13	37613	ratio value/weightOfMostCriticalDimension crescent	Static	0.001922
+instance13	37474	descending	Static	0.000492
+instance13	37474	descending	Dynamic	0.000504
+instance13	34390	random	Dynamic	0.000618
+instance13	34376	random	Static	0.000532
+instance13	32361	crescent	Static	0.000460
+instance13	31567	crescent	Dynamic	0.000508
+instance13	29708	ratio value/weightOfMostCriticalDimension descending	Static	0.001678
+instance13	29708	ratio value/weightOfMostFullDimension descending	Static	0.002160
+instance13	28055	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001734
+instance13	28055	ratio value/weightOfMostFullDimension descending	Dynamic	0.002560
+instance13	26233	ratio value/totalWeight crescent	Static	0.000996
+instance13	24735	ratio value/totalWeight crescent	Dynamic	0.000958
+instance14	41106	ratio value/totalWeight descending	Static	0.000566
+instance14	41106	ratio value/totalWeight descending	Dynamic	0.000772
+instance14	39721	ratio value/weightOfMostCriticalDimension crescent	Static	0.001910
+instance14	39721	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.002036
+instance14	39721	ratio value/weightOfMostFullDimension crescent	Static	0.002846
+instance14	39721	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002832
+instance14	38227	descending	Static	0.000264
+instance14	38227	descending	Dynamic	0.000486
+instance14	34551	random	Static	0.000332
+instance14	34551	random	Dynamic	0.000326
+instance14	32528	crescent	Static	0.000466
+instance14	31309	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001938
+instance14	31309	ratio value/weightOfMostFullDimension descending	Dynamic	0.002596
+instance14	29580	crescent	Dynamic	0.000308
+instance14	29382	ratio value/weightOfMostFullDimension descending	Static	0.002604
+instance14	29382	ratio value/weightOfMostCriticalDimension descending	Static	0.001896
+instance14	28894	ratio value/totalWeight crescent	Dynamic	0.001026
+instance14	28749	ratio value/totalWeight crescent	Static	0.000936
+instance15	39319	ratio value/totalWeight descending	Static	0.001088
+instance15	38870	ratio value/totalWeight descending	Dynamic	0.000958
+instance15	37223	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001970
+instance15	37223	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002650
+instance15	36863	ratio value/weightOfMostFullDimension crescent	Static	0.002714
+instance15	36863	ratio value/weightOfMostCriticalDimension crescent	Static	0.001944
+instance15	33692	random	Static	0.000626
+instance15	32540	random	Dynamic	0.000540
+instance15	30802	descending	Static	0.000468
+instance15	30802	descending	Dynamic	0.000482
+instance15	30677	crescent	Static	0.000468
+instance15	30196	crescent	Dynamic	0.000482
+instance15	29168	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001858
+instance15	29168	ratio value/weightOfMostFullDimension descending	Dynamic	0.002732
+instance15	28412	ratio value/totalWeight crescent	Static	0.000958
+instance15	27906	ratio value/totalWeight crescent	Dynamic	0.000874
+instance15	27607	ratio value/weightOfMostFullDimension descending	Static	0.002840
+instance15	27607	ratio value/weightOfMostCriticalDimension descending	Static	0.002000
+instance16	40410	ratio value/totalWeight descending	Dynamic	0.000860
+instance16	40320	ratio value/totalWeight descending	Static	0.000910
+instance16	38147	descending	Static	0.000412
+instance16	38147	descending	Dynamic	0.000514
+instance16	37007	ratio value/weightOfMostCriticalDimension crescent	Static	0.001656
+instance16	37007	ratio value/weightOfMostFullDimension crescent	Static	0.001888
+instance16	36408	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001820
+instance16	36408	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002168
+instance16	29340	crescent	Dynamic	0.000464
+instance16	29020	ratio value/weightOfMostCriticalDimension descending	Static	0.001676
+instance16	29020	ratio value/weightOfMostFullDimension descending	Static	0.002200
+instance16	28914	ratio value/totalWeight crescent	Dynamic	0.000780
+instance16	28860	random	Dynamic	0.000572
+instance16	28778	random	Static	0.000552
+instance16	28583	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001808
+instance16	28583	ratio value/weightOfMostFullDimension descending	Dynamic	0.001996
+instance16	27016	crescent	Static	0.000480
+instance16	26950	ratio value/totalWeight crescent	Static	0.000848
+instance17	38601	ratio value/totalWeight descending	Dynamic	0.000600
+instance17	38004	ratio value/totalWeight descending	Static	0.000558
+instance17	37588	ratio value/weightOfMostCriticalDimension crescent	Static	0.001480
+instance17	37588	ratio value/weightOfMostFullDimension crescent	Static	0.002266
+instance17	37505	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001476
+instance17	37505	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002764
+instance17	36831	descending	Static	0.000326
+instance17	36831	descending	Dynamic	0.000384
+instance17	31799	random	Static	0.000368
+instance17	31799	random	Dynamic	0.000452
+instance17	29109	crescent	Static	0.000258
+instance17	27468	ratio value/totalWeight crescent	Dynamic	0.000504
+instance17	27312	ratio value/weightOfMostCriticalDimension descending	Static	0.001358
+instance17	27312	ratio value/weightOfMostFullDimension descending	Static	0.001964
+instance17	27163	ratio value/totalWeight crescent	Static	0.000584
+instance17	26529	crescent	Dynamic	0.000254
+instance17	25434	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001282
+instance17	25434	ratio value/weightOfMostFullDimension descending	Dynamic	0.002318
+instance18	42909	ratio value/totalWeight descending	Dynamic	0.000864
+instance18	40471	ratio value/weightOfMostCriticalDimension crescent	Static	0.001848
+instance18	40471	ratio value/weightOfMostFullDimension crescent	Static	0.002784
+instance18	38199	ratio value/totalWeight descending	Static	0.000834
+instance18	37450	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.002082
+instance18	37450	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002926
+instance18	37286	descending	Static	0.000402
+instance18	37286	descending	Dynamic	0.000402
+instance18	35352	random	Dynamic	0.000522
+instance18	35302	random	Static	0.000612
+instance18	32901	crescent	Static	0.000492
+instance18	32752	crescent	Dynamic	0.000512
+instance18	30577	ratio value/totalWeight crescent	Static	0.000904
+instance18	30153	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.002032
+instance18	30153	ratio value/weightOfMostFullDimension descending	Dynamic	0.002420
+instance18	29766	ratio value/weightOfMostFullDimension descending	Static	0.002388
+instance18	29766	ratio value/weightOfMostCriticalDimension descending	Static	0.002232
+instance18	29498	ratio value/totalWeight crescent	Dynamic	0.000870
+instance19	40392	ratio value/totalWeight descending	Static	0.000764
+instance19	39700	ratio value/totalWeight descending	Dynamic	0.000748
+instance19	38494	descending	Static	0.000384
+instance19	38494	descending	Dynamic	0.000492
+instance19	38045	ratio value/weightOfMostCriticalDimension crescent	Static	0.001782
+instance19	38045	ratio value/weightOfMostFullDimension crescent	Static	0.002820
+instance19	36955	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001550
+instance19	36955	ratio value/weightOfMostFullDimension crescent	Dynamic	0.003254
+instance19	34035	crescent	Static	0.000416
+instance19	33440	crescent	Dynamic	0.000486
+instance19	31078	ratio value/weightOfMostCriticalDimension descending	Static	0.001870
+instance19	31078	ratio value/weightOfMostFullDimension descending	Static	0.002174
+instance19	30651	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.002140
+instance19	30651	ratio value/weightOfMostFullDimension descending	Dynamic	0.002488
+instance19	28728	ratio value/totalWeight crescent	Dynamic	0.000744
+instance19	28199	ratio value/totalWeight crescent	Static	0.000706
+instance19	27045	random	Dynamic	0.000456
+instance19	25284	random	Static	0.000546
+instance20	42749	ratio value/totalWeight descending	Static	0.001050
+instance20	42040	ratio value/weightOfMostCriticalDimension crescent	Static	0.002114
+instance20	42040	ratio value/weightOfMostFullDimension crescent	Static	0.002460
+instance20	42036	ratio value/totalWeight descending	Dynamic	0.000892
+instance20	39851	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001638
+instance20	39851	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002484
+instance20	39560	descending	Static	0.000328
+instance20	39560	descending	Dynamic	0.000328
+instance20	37767	random	Dynamic	0.000514
+instance20	36011	random	Static	0.000762
+instance20	31874	crescent	Static	0.000466
+instance20	31168	crescent	Dynamic	0.000390
+instance20	30510	ratio value/weightOfMostCriticalDimension descending	Static	0.001502
+instance20	30510	ratio value/weightOfMostFullDimension descending	Static	0.002286
+instance20	30247	ratio value/totalWeight crescent	Static	0.000756
+instance20	28976	ratio value/totalWeight crescent	Dynamic	0.000798
+instance20	28296	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001520
+instance20	28296	ratio value/weightOfMostFullDimension descending	Dynamic	0.002460
+instance21	59504	ratio value/totalWeight descending	Dynamic	0.000856
+instance21	57171	ratio value/totalWeight descending	Static	0.001018
+instance21	56343	ratio value/weightOfMostCriticalDimension crescent	Static	0.001538
+instance21	56343	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001504
+instance21	56343	ratio value/weightOfMostFullDimension crescent	Static	0.002416
+instance21	56343	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002326
+instance21	53785	descending	Static	0.000512
+instance21	53785	descending	Dynamic	0.000394
+instance21	53409	random	Dynamic	0.000676
+instance21	52679	random	Static	0.000524
+instance21	49191	ratio value/weightOfMostCriticalDimension descending	Static	0.002160
+instance21	49191	ratio value/weightOfMostFullDimension descending	Static	0.002354
+instance21	49038	crescent	Dynamic	0.000612
+instance21	48182	crescent	Static	0.000630
+instance21	47619	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001742
+instance21	47619	ratio value/weightOfMostFullDimension descending	Dynamic	0.002610
+instance21	46318	ratio value/totalWeight crescent	Static	0.000868
+instance21	45181	ratio value/totalWeight crescent	Dynamic	0.001120
+instance22	59384	ratio value/totalWeight descending	Dynamic	0.000918
+instance22	58892	ratio value/totalWeight descending	Static	0.001012
+instance22	57126	ratio value/weightOfMostCriticalDimension crescent	Static	0.001652
+instance22	57126	ratio value/weightOfMostFullDimension crescent	Static	0.002466
+instance22	56775	descending	Static	0.000426
+instance22	56775	descending	Dynamic	0.000414
+instance22	55164	random	Static	0.000568
+instance22	54713	random	Dynamic	0.000538
+instance22	54605	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001842
+instance22	54605	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002500
+instance22	54256	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001572
+instance22	54256	ratio value/weightOfMostFullDimension descending	Dynamic	0.002626
+instance22	53449	ratio value/weightOfMostFullDimension descending	Static	0.003010
+instance22	53449	ratio value/weightOfMostCriticalDimension descending	Static	0.001792
+instance22	51942	crescent	Dynamic	0.000452
+instance22	49428	crescent	Static	0.000472
+instance22	49049	ratio value/totalWeight crescent	Dynamic	0.000850
+instance22	47803	ratio value/totalWeight crescent	Static	0.000986
+instance23	58617	ratio value/totalWeight descending	Dynamic	0.001160
+instance23	57911	ratio value/totalWeight descending	Static	0.000920
+instance23	57238	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001632
+instance23	57238	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002194
+instance23	56705	ratio value/weightOfMostFullDimension crescent	Static	0.001794
+instance23	56705	ratio value/weightOfMostCriticalDimension crescent	Static	0.001404
+instance23	53997	random	Dynamic	0.000536
+instance23	53813	descending	Static	0.000504
+instance23	53813	descending	Dynamic	0.000570
+instance23	53574	random	Static	0.000610
+instance23	51664	crescent	Dynamic	0.000620
+instance23	50412	crescent	Static	0.000594
+instance23	50282	ratio value/weightOfMostCriticalDimension descending	Static	0.001942
+instance23	50282	ratio value/weightOfMostFullDimension descending	Static	0.001882
+instance23	47678	ratio value/totalWeight crescent	Dynamic	0.001026
+instance23	46701	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001768
+instance23	46701	ratio value/weightOfMostFullDimension descending	Dynamic	0.001770
+instance23	45243	ratio value/totalWeight crescent	Static	0.000996
+instance24	59356	ratio value/totalWeight descending	Dynamic	0.000896
+instance24	59032	ratio value/totalWeight descending	Static	0.000862
+instance24	57491	ratio value/weightOfMostCriticalDimension crescent	Static	0.001700
+instance24	57491	ratio value/weightOfMostFullDimension crescent	Static	0.002336
+instance24	57436	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001262
+instance24	57436	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002526
+instance24	53859	descending	Static	0.000398
+instance24	53859	descending	Dynamic	0.000526
+instance24	53113	random	Static	0.000570
+instance24	53113	random	Dynamic	0.000502
+instance24	51815	ratio value/weightOfMostCriticalDimension descending	Static	0.001592
+instance24	51815	ratio value/weightOfMostFullDimension descending	Static	0.002148
+instance24	51031	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001778
+instance24	51031	ratio value/weightOfMostFullDimension descending	Dynamic	0.002014
+instance24	50936	crescent	Static	0.000514
+instance24	50936	crescent	Dynamic	0.000452
+instance24	48869	ratio value/totalWeight crescent	Dynamic	0.000868
+instance24	46164	ratio value/totalWeight crescent	Static	0.000846
+instance25	60505	ratio value/totalWeight descending	Dynamic	0.000906
+instance25	59858	ratio value/totalWeight descending	Static	0.001192
+instance25	57620	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001966
+instance25	57620	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002682
+instance25	56859	ratio value/weightOfMostFullDimension crescent	Static	0.002672
+instance25	56859	ratio value/weightOfMostCriticalDimension crescent	Static	0.001782
+instance25	54451	random	Static	0.000530
+instance25	54451	random	Dynamic	0.000486
+instance25	53795	descending	Static	0.000446
+instance25	53795	descending	Dynamic	0.000496
+instance25	52665	crescent	Static	0.000474
+instance25	52099	crescent	Dynamic	0.000622
+instance25	51158	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001636
+instance25	51158	ratio value/weightOfMostFullDimension descending	Dynamic	0.002274
+instance25	50535	ratio value/weightOfMostFullDimension descending	Static	0.002330
+instance25	50535	ratio value/weightOfMostCriticalDimension descending	Static	0.001772
+instance25	46447	ratio value/totalWeight crescent	Static	0.001006
+instance25	46447	ratio value/totalWeight crescent	Dynamic	0.000872
+instance26	57139	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001788
+instance26	57139	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002604
+instance26	56862	ratio value/weightOfMostFullDimension crescent	Static	0.002552
+instance26	56862	ratio value/weightOfMostCriticalDimension crescent	Static	0.001770
+instance26	56229	ratio value/totalWeight descending	Dynamic	0.001366
+instance26	56124	ratio value/totalWeight descending	Static	0.001302
+instance26	55040	descending	Static	0.000836
+instance26	55040	descending	Dynamic	0.000802
+instance26	52303	random	Dynamic	0.000798
+instance26	52237	random	Static	0.000762
+instance26	51549	crescent	Static	0.000706
+instance26	51549	crescent	Dynamic	0.000718
+instance26	48492	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001806
+instance26	48492	ratio value/weightOfMostFullDimension descending	Dynamic	0.002372
+instance26	48484	ratio value/weightOfMostFullDimension descending	Static	0.002442
+instance26	48484	ratio value/weightOfMostCriticalDimension descending	Static	0.001616
+instance26	48427	ratio value/totalWeight crescent	Static	0.000968
+instance26	48199	ratio value/totalWeight crescent	Dynamic	0.000900
+instance27	59559	ratio value/totalWeight descending	Static	0.000882
+instance27	59559	ratio value/totalWeight descending	Dynamic	0.000900
+instance27	58331	descending	Static	0.000432
+instance27	58331	descending	Dynamic	0.000428
+instance27	55058	ratio value/weightOfMostCriticalDimension crescent	Static	0.001768
+instance27	55058	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001770
+instance27	55058	ratio value/weightOfMostFullDimension crescent	Static	0.002620
+instance27	55058	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002578
+instance27	54013	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001936
+instance27	54013	ratio value/weightOfMostFullDimension descending	Dynamic	0.002368
+instance27	53764	crescent	Static	0.000460
+instance27	53732	random	Static	0.000550
+instance27	53274	ratio value/weightOfMostFullDimension descending	Static	0.002474
+instance27	53274	ratio value/weightOfMostCriticalDimension descending	Static	0.001882
+instance27	52993	crescent	Dynamic	0.000458
+instance27	50222	random	Dynamic	0.000500
+instance27	49990	ratio value/totalWeight crescent	Dynamic	0.000942
+instance27	49694	ratio value/totalWeight crescent	Static	0.000994
+instance28	59804	descending	Static	0.000564
+instance28	59804	descending	Dynamic	0.000522
+instance28	59533	ratio value/weightOfMostCriticalDimension crescent	Static	0.001564
+instance28	59533	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001472
+instance28	59533	ratio value/weightOfMostFullDimension crescent	Static	0.002390
+instance28	59533	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002342
+instance28	56962	ratio value/totalWeight descending	Static	0.000850
+instance28	56962	ratio value/totalWeight descending	Dynamic	0.000908
+instance28	54612	random	Static	0.000556
+instance28	52894	random	Dynamic	0.000508
+instance28	52130	crescent	Static	0.000532
+instance28	50840	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001780
+instance28	50840	ratio value/weightOfMostFullDimension descending	Dynamic	0.002100
+instance28	50245	ratio value/weightOfMostFullDimension descending	Static	0.002096
+instance28	50245	ratio value/weightOfMostCriticalDimension descending	Static	0.001716
+instance28	49839	crescent	Dynamic	0.000512
+instance28	48698	ratio value/totalWeight crescent	Dynamic	0.000856
+instance28	48407	ratio value/totalWeight crescent	Static	0.000856
+instance29	57537	ratio value/totalWeight descending	Dynamic	0.000980
+instance29	56360	ratio value/totalWeight descending	Static	0.000976
+instance29	55274	ratio value/weightOfMostCriticalDimension crescent	Static	0.001698
+instance29	55274	ratio value/weightOfMostFullDimension crescent	Static	0.002564
+instance29	53994	descending	Static	0.000438
+instance29	53994	descending	Dynamic	0.000446
+instance29	53104	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001926
+instance29	53104	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002466
+instance29	51677	random	Dynamic	0.000550
+instance29	51265	random	Static	0.000548
+instance29	49283	ratio value/weightOfMostFullDimension descending	Static	0.002418
+instance29	49283	ratio value/weightOfMostFullDimension descending	Dynamic	0.002480
+instance29	49283	ratio value/weightOfMostCriticalDimension descending	Static	0.001694
+instance29	49283	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001914
+instance29	48958	crescent	Dynamic	0.000398
+instance29	48094	ratio value/totalWeight crescent	Dynamic	0.000786
+instance29	46948	ratio value/totalWeight crescent	Static	0.000804
+instance29	46545	crescent	Static	0.000440
+instance30	58878	ratio value/totalWeight descending	Static	0.000936
+instance30	58878	ratio value/totalWeight descending	Dynamic	0.001010
+instance30	57551	ratio value/weightOfMostCriticalDimension crescent	Static	0.001928
+instance30	57551	ratio value/weightOfMostFullDimension crescent	Static	0.002734
+instance30	57201	ratio value/weightOfMostCriticalDimension crescent	Dynamic	0.001826
+instance30	57201	ratio value/weightOfMostFullDimension crescent	Dynamic	0.002662
+instance30	55775	descending	Static	0.000448
+instance30	55775	descending	Dynamic	0.000430
+instance30	53212	random	Static	0.000542
+instance30	52737	crescent	Dynamic	0.000584
+instance30	52409	random	Dynamic	0.000494
+instance30	49876	crescent	Static	0.000446
+instance30	49639	ratio value/totalWeight crescent	Dynamic	0.001010
+instance30	48565	ratio value/weightOfMostCriticalDimension descending	Dynamic	0.001844
+instance30	48565	ratio value/weightOfMostFullDimension descending	Dynamic	0.002434
+instance30	48086	ratio value/weightOfMostFullDimension descending	Static	0.002738
+instance30	48086	ratio value/weightOfMostCriticalDimension descending	Static	0.001746
+instance30	47492	ratio value/totalWeight crescent	Static	0.001068

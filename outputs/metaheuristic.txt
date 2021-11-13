@@ -1,0 +1,61 @@
+Instance  		Objective		Scheduling														Heuristic		Metaheuristic		Duration (in s)
+instance1 		21100			random                                              			Dynamic		    Local Research		2.051914
+instance2 		22448			random                                              			Dynamic		    Local Research		1.581066
+instance3 		21116			random                                              			Static 		    Local Research		2.452528
+instance4 		19682			random                                              			Static 		    Local Research		1.001630
+instance5 		21420			random                                              			Dynamic		    Local Research		1.708072
+instance6 		22286			random                                              			Dynamic		    Local Research		1.127340
+instance7 		24118			random                                              			Dynamic		    Local Research		1.567706
+instance8 		20782			random                                              			Dynamic		    Local Research		1.306758
+instance9 		21274			random                                              			Static 		    Local Research		0.926090
+instance10 		22505			random                                              			Dynamic		    Local Research		1.293728
+instance11 		39895			random                                              			Static 		    Local Research		3.019524
+instance12 		39077			random                                              			Dynamic		    Local Research		1.557100
+instance13 		38794			random                                              			Static 		    Local Research		2.439994
+instance14 		43019			random                                              			Static 		    Local Research		3.297234
+instance15 		38412			random                                              			Dynamic		    Local Research		3.981554
+instance16 		37113			random                                              			Static 		    Local Research		2.370500
+instance17 		36482			random                                              			Static 		    Local Research		1.639128
+instance18 		40900			random                                              			Dynamic		    Local Research		2.385312
+instance19 		39730			random                                              			Static 		    Local Research		2.470078
+instance20 		39475			random                                              			Dynamic		    Local Research		2.609572
+instance21 		56633			random                                              			Dynamic		    Local Research		2.188840
+instance22 		58900			random                                              			Dynamic		    Local Research		1.017860
+instance23 		57381			random                                              			Dynamic		    Local Research		1.023872
+instance24 		57509			random                                              			Static 		    Local Research		1.959316
+instance25 		58062			random                                              			Static 		    Local Research		1.686134
+instance26 		55442			random                                              			Dynamic		    Local Research		2.030862
+instance27 		57843			random                                              			Dynamic		    Local Research		1.095430
+instance28 		57873			random                                              			Dynamic		    Local Research		1.209172
+instance29 		55637			random                                              			Dynamic		    Local Research		1.028784
+instance30 		55423			random                                              			Static 		    Local Research		0.855156
+instance1 		21007			ratio value/weightOfMostCriticalDimension crescent  			Static 		    Local Research		0.947062
+instance2 		22280			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.576090
+instance3 		21542			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.490480
+instance4 		21046			ratio value/weightOfMostCriticalDimension crescent  			Dynamic		    Local Research		0.400802
+instance5 		21399			ratio value/totalWeight descending                  			Dynamic		    Local Research		1.674138
+instance6 		23719			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.626836
+instance7 		23920			ratio value/totalWeight descending                  			Static 		    Local Research		1.840690
+instance8 		21911			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.555154
+instance9 		21614			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.655576
+instance10 		23705			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.591676
+instance11 		41331			ratio value/totalWeight descending                  			Static 		    Local Research		0.724554
+instance12 		40362			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.849302
+instance13 		39471			ratio value/totalWeight descending                  			Static 		    Local Research		0.936202
+instance14 		41204			ratio value/totalWeight descending                  			Static 		    Local Research		1.502018
+instance15 		39319			ratio value/totalWeight descending                  			Static 		    Local Research		0.639752
+instance16 		40410			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.773094
+instance17 		38601			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.904408
+instance18 		42909			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.745284
+instance19 		40392			ratio value/totalWeight descending                  			Static 		    Local Research		0.770802
+instance20 		42749			ratio value/totalWeight descending                  			Static 		    Local Research		0.780128
+instance21 		59504			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.538996
+instance22 		59384			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.513472
+instance23 		58617			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.439564
+instance24 		59356			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.400930
+instance25 		60505			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.542352
+instance26 		57139			ratio value/weightOfMostCriticalDimension crescent  			Dynamic		    Local Research		0.575074
+instance27 		59559			ratio value/totalWeight descending                  			Static 		    Local Research		0.465826
+instance28 		59804			descending                                          			Static 		    Local Research		0.404308
+instance29 		57537			ratio value/totalWeight descending                  			Dynamic		    Local Research		0.415100
+instance30 		58878			ratio value/totalWeight descending                  			Static 		    Local Research		0.382368

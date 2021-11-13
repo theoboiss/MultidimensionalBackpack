@@ -1,0 +1,13 @@
+Projet de C - "Sac à dos multidimensionnel"
+Sujet de Yannick Kergosien, encadré par Boukhalfa Zahout - Polytech Tours
+
+Etudiants :
+- Théo Boisseau (theo.boisseau@etu.univ-tours.fr)
+- Sarah Denis (sarah.denis-2@etu.univ-tours.fr)
+
+
+Commande(s) utile(s):
+rm vgcore.*
+rm ./outputs/solutions/*; rm ./outputs/sortie.*; rm ./outputs/heuristic.*; rm ./outputs/metaheuristic.*;
+valgrind --leak-check=full ./main
+valgrind --tool=memcheck --leak-check=full --track-origins=yes ./main
